@@ -7,3 +7,6 @@ Author: The Beaver Builder Team
 Author URI: http://www.fastlinemedia.com
 template: bb-theme
 */
+body {
+	display: none;
+}
